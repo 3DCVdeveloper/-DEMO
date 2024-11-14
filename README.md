@@ -14,10 +14,13 @@
 - **技术实现**：基于深度学习模型，利用大规模人脸数据集进行训练。模型结构融合了卷积神经网络（CNN）的优势，对人脸特征进行多层次的提取和学习。同时，针对鉴伪任务，还引入了额外的判别模块，以增强对伪造人脸的识别能力。
   OpenCV 3D视觉实验箱系列课程之人脸鉴伪
   https://github.com/OpenCVChina/OpenCVBookSourceCode/blob/760bdb1208765c7bc3cd1ef028664b47a3562732/12-%E6%B7%B1%E5%BA%A6%E7%9B%B8%E6%9C%BA%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/anti-spoofing.py
+  
   OpenCV 3D视觉实验箱人脸鉴伪
   https://github.com/3DCVdeveloper/anti-spoofing
+  
   RoSipder六足机器人人脸鉴伪
   https://github.com/3DCVdeveloper/face_detaction
+  
   Orbbot S1小车人脸识别
   https://github.com/3DCVdeveloper/S1-Face-recognition
   
