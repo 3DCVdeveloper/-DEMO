@@ -33,12 +33,60 @@
     - 稳定跟踪：实时跟踪骨架的运动轨迹，即使在部分遮挡或快速运动的情况下，也能保持跟踪的稳定性，为后续的动作分析和行为理解提供可靠的数据。
 - **技术实现**：采用了先进的姿态估计技术，以卷积神经网络为基础，学习人体不同关节的外观特征和空间关系。通过在时间维度上的信息融合和优化算法，实现对骨架的稳定跟踪，减少误差累积。
 
+- 源代码链接：
+
+- 第二届3D视觉创新应用竞赛+刘辉+实时人体视频追踪的三维虚拟变装方案：https://github.com/3DCVdeveloper/Skeleton_3D-virtual-drag
+
+- 第二届3D视觉创新应用竞赛+叶顶强+电子宠物狗：https://github.com/3DCVdeveloper/Skeleton_Virtual-Pet-Dog
+
+- 第二届3D视觉创新应用竞赛+张豪+基于手势识别的三维地球仪隔空控制：https://github.com/3DCVdeveloper/Skeleton_Space-control-of-3D-globe
+
+- 第三届3D视觉创新应用竞赛+方   翔+智能交互式人像采集系统：https://github.com/3DCVdeveloper/Skeleton_Portrait-collection
+
+- 第四届3D视觉创新应用竞赛+马元豪+手势姿态识别机器人交互系统：https://github.com/3DCVdeveloper/Skeleton_Posture-recognition
+
+
+
 ### 机器视觉算法
 - **功能亮点**：
     - 图像预处理：提供了多种图像预处理方法，如去噪、增强对比度、色彩校正等，以提高图像质量，为后续的分析处理奠定基础。
     - 目标检测与识别：能够快速准确地检测出图像中的各种目标物体，并进行分类识别。支持多种类型的目标，包括但不限于常见物体、特定领域的目标等。
     - 图像分割：实现了精确的图像分割功能，将图像划分为不同的语义区域，有助于对图像内容的进一步理解和分析。
 - **技术实现**：在图像预处理阶段，运用了经典的滤波算法和基于直方图的调整方法。目标检测与识别采用了先进的深度学习框架，如基于区域提议的方法（如 Faster R - CNN）和单阶段检测方法（如 YOLO）的改进版本。图像分割则利用了全卷积网络（FCN）及其变体，结合注意力机制等技术来提高分割精度。
+
+- 源代码链接：
+
+- 第一届3D视觉创新应用竞赛+徐冠宇+基于点云的视觉引导系统：https://github.com/3DCVdeveloper/RobotV_Guidance
+
+- 第一届3D视觉创新应用竞赛+赵晨昊+RGB-D相机结合机械臂的无序抓取系统：https://github.com/3DCVdeveloper/RobotV_Disorderly-grabbing
+
+- 第二届3D视觉创新应用竞赛+胡明豪+基于VINS-Mono的仓储机器人VSLAM方案：https://github.com/3DCVdeveloper/RobotV_Storage-robot
+
+- 第二届3D视觉创新应用竞赛+邱泽宇+基于机械和深度相机的草莓采摘机器人开发：https://github.com/3DCVdeveloper/RobotV_Strawberry-picking
+
+- 第三届3D视觉创新应用竞赛+顾   超+智慧分拣与检测机器人系统：https://github.com/3DCVdeveloper/RobotV_Intelligent-sorting-and-detection
+
+- 第三届3D视觉创新应用竞赛+李千一+基于VSLAM的自主移动清洁机器人：https://github.com/3DCVdeveloper/RobotV_Autonomous-Cleaning
+
+- 第三届3D视觉创新应用竞赛+周家乐+基于深度相机的无人机自主探索方案：https://github.com/3DCVdeveloper/RobotV_UAV-exploration
+
+- 第四届3D视觉创新应用竞赛+白勇+基于点云的端到端多自由度抓取检测系统：https://github.com/3DCVdeveloper/RobotV_Multi-degree-of-freedom-grasping
+
+- 第四届3D视觉创新应用竞赛+陈东韧+面向工厂环境的安防巡检无人机：https://github.com/3DCVdeveloper/RobotV_Security-inspection-drone
+
+- 第四届3D视觉创新应用竞赛+黄启铭+电力巡检机器人：https://github.com/3DCVdeveloper/RobotV_Power-inspection
+
+- 第四届3D视觉创新应用竞赛+毛一非+基于奥比中光3D相机的识别取物机器人：https://github.com/3DCVdeveloper/RobotV_Identify-and-retrieve-items
+
+- 第四届3D视觉创新应用竞赛+王俊超+机器人分拣与多维检测系统：https://github.com/3DCVdeveloper/RobotV_Sorting-and-Testing
+
+- 第四届3D视觉创新应用竞赛+王禹+月球工业机器人：https://github.com/3DCVdeveloper/RobotV_Lunar-Industry
+
+- 第四届3D视觉创新应用竞赛+吴鹏飞+无序场景下机械臂抓取纸箱：https://github.com/3DCVdeveloper/RobotV_Grab-box
+
+- 第四届3D视觉创新应用竞赛+闫腾+面向 3C 行业脆性材料：视触觉融合：https://github.com/3DCVdeveloper/RobotV_Visual-tactile-fusion
+
+
 
 ### 三维重建算法
 - **功能亮点**：
